@@ -1,1 +1,1 @@
-# profile-pic-generator
+# profile-pic-generator-discord
